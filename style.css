@@ -1,0 +1,28 @@
+body {
+    padding: 20px;
+}
+.field {
+    position: relative;
+    display: inline-block;
+    width: 470px;
+    height: 580px;
+    margin-right: 40px;
+    background: no-repeat url('img/bg.jpg') bottom center;
+}
+.doll {
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.items {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 45%;
+    margin-top: 20px;
+}
+.item {
+    vertical-align: middle;
+    margin: 0 15px;
+}
